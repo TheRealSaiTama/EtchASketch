@@ -51,6 +51,7 @@ This Python project replicates the classic Etch-A-Sketch drawing toy. It allows 
 ## Screenshots
 
 Include screenshots or images of the application in action. You can add them to the repository and reference them in the README.
+(carbon.png)
 
 ## Known Issues
 
