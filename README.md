@@ -4,7 +4,7 @@
 
 This Python project replicates the classic Etch-A-Sketch drawing toy. It allows you to draw on the screen using the arrow keys (W, A, S, D) to move the "pen." You can create a wide variety of drawings and patterns just like you used to on the physical toy!
 
-![Etch-A-Sketch](etch-a-sketch.png)
+![Etch-A-Sketch](etchasketch.png)
 
 ## Features
 
