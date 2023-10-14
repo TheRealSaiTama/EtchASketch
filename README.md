@@ -66,6 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact me at [Your Email Address](mailto:mansecret490@gmail.com).
+If you have any questions or need further assistance, feel free to contact me at [TheRealSaiTama](mailto:mansecret490@gmail.com).
 
 Happy drawing with your Python Etch-A-Sketch!
